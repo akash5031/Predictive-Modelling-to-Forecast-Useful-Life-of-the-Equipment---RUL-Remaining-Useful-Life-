@@ -1,0 +1,2 @@
+# Predictive-Modelling-to-Forecast-Useful-Life-of-the-Equipment---RUL-Remaining-Useful-Life-
+The remaining useful life (RUL) is the length of time a machine is likely to operate before it requires repair or replacement. By taking RUL into account, engineers can schedule maintenance, optimize operating efficiency, and avoid unplanned downtime. For this reason, estimating RUL is a top priority in predictive maintenance programs.
